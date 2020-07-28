@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+*.txt
+*.zip
+Objects/libs/
+Objects/8.*
